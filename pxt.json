@@ -11,7 +11,8 @@
         "main.ts",
         "README.md",
         "Robot.ts",
-        "Sensor.ts"
+        "Sensor.ts",
+        "_locales/zh-CN/robot-strings.json"
     ],
     "testFiles": [
         "test.ts"
