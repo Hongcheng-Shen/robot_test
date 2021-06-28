@@ -1,5 +1,5 @@
 {
-    "Control.Control_init|block": "全速前进",
+    "robot.init|block": "全速前进",
     "robot|block":"机器人",
     "{id:category}robot": "机器人"
 
