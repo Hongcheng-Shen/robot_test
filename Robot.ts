@@ -3,7 +3,7 @@
 /**
  * robot blocks
  */
-//% weight= 0 color=#0abcff icon="\uf207" block = "RingbitCar"
+//% weight= 0 color=#0abcff icon="\uf207" block="robot"
 
 
 namespace robot {
@@ -15,7 +15,7 @@ namespace robot {
      */
     
     //% groups="Positional"
-    //% block="go straight at full speed"
+    //% blockId=robot_init block="go straight at full speed"
     export function init(): void {
         let i = 0
         // Add code here
