@@ -15,7 +15,7 @@ namespace Robot {
      */
     
     //% groups="Positional"
-    //% blockId=robot_init block="go straight at full speed"
+    //% blockId=Robot_init block="go straight at full speed"
     export function init(): void {
         let i = 0
         // Add code here
