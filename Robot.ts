@@ -3,10 +3,10 @@
 /**
  * robot blocks
  */
-//% weight= 0 color=#0abcff icon="\uf207" block="robot"
+//% weight= 0 color=#0abcff icon="\uf207" block="Robot"
 
 
-namespace robot {
+namespace Robot {
     /**
      * TODO: describe your function here
      * @param n describe parameter here, eg: 5
