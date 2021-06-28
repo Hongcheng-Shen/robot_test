@@ -1,20 +1,23 @@
 
 
 /**
- * Control blocks
+ * robot blocks
  */
-//% weight=100 color=#0fbc11 icon=""
-//% groups='["Positional", "Continuous", "Configuration"]'
-namespace Control {
+//% weight= 0 color=#0abcff icon="\uf207" block = "RingbitCar"
+
+
+namespace robot {
     /**
      * TODO: describe your function here
      * @param n describe parameter here, eg: 5
      * @param s describe parameter here, eg: "Hello"
      * @param e describe parameter here
      */
-    //% block
+    
     //% groups="Positional"
-    export function Control_init(): void {
+    //% block="go straight at full speed"
+    export function init(): void {
+        let i = 0
         // Add code here
     }
 
